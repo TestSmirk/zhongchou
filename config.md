@@ -2,5 +2,5 @@
 * user   
 userid 用户的唯一id
 
-*config  
+* config  
 notification 显示通知
